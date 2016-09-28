@@ -5,11 +5,11 @@ public class hello3 {
 
 	public static void main(String[] args) 
 	{
-		Scanner scan = new Scanner (System.in);
+		Scanner check = new Scanner (System.in);
 		System.out.print("Danny ");
-		String firstName = scan.nextLine();
+		String firstName = check.nextLine();
 		System.out.print("Lang ");
-		String lastName = scan.nextLine();
+		String lastName = check.nextLine();
 		System.out.println("Hello " + firstName + " " + lastName);
 		System.out.println("Welcome to Java!");
 	}
