@@ -37,6 +37,7 @@ public class Age {
 		System.out.println("Second number - Third number is: "+(number2 - number3));
 	    System.out.println("Your first number * Your 5 number is: "+(number1*number5));
 	    System.out.println("Your fourth number / by your second number is:" +(number4/number2));
+	    System.out.println("Your dividing number % by the second is: " +(number4%number2));
 	}
 		
 }
