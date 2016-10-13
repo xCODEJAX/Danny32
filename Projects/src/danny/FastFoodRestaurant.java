@@ -6,8 +6,10 @@ package danny;
 import java.util.Scanner;
 
 /**
- * @author 323842039
- *
+ * ICS3C
+ * 15/09/2016
+ * Danny Lang	
+ *FastFoodResturant
  */
 public class FastFoodRestaurant {
 
