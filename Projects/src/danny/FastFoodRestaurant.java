@@ -6,10 +6,8 @@ package danny;
 import java.util.Scanner;
 
 /**
- * ICS3C
- * 15/09/2016
- * Danny Lang	
- *FastFoodResturant
+ * @author 323842039
+ *
  */
 public class FastFoodRestaurant {
 
@@ -43,9 +41,6 @@ public class FastFoodRestaurant {
 		System.out.println("Tax:"+(tax));
 
 		System.out.println("Final Total:"+(burgers+1.60+fries+1.09+sodas+0.99+tax+0.90));
-		
-		
-
 		
 		
 		
