@@ -7,7 +7,9 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 /**
- * @author 323842039
+ *Danny Lang
+ *Printing.java
+ *November/4/2016
  *
  */
 public class Printing {

@@ -1,5 +1,12 @@
 package danny;
 
+/**
+ *Danny Lang
+ *Eggs.java
+ *November/4/2016
+ *
+ */
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
